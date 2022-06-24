@@ -1,6 +1,4 @@
 ### Hi there 👋, I am Jashim Uddin
-#### Web Developer
-
 
 I live at Shyamoli in Dhaka. I was born and grew up Cox's Bazar district. I have done B.Sc in CSE from Bangladesh University of Business and Technology. I am self-motivated, hardworking and discipline person. one of my hobbies learn something new so I think I am quick learner. there five member in my family. Me father and mother two younger sister. My father is teacher mother is housewife and two sister are meried.
 
