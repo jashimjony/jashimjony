@@ -1,5 +1,3 @@
-![Web Developer](https://scontent.fdac15-1.fna.fbcdn.net/v/t39.30808-6/275121109_3087551904843137_8686864284406907966_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEIqxLg5NOOOWlWgLGG8YPGUC_zlb_W_GVQL_OVv9b8Zda7B5SmC32BY67A7zxe9Pxp2xIRIWtj-7vOWpHluzKN&_nc_ohc=Gh8ORn7BGGQAX-uZw43&_nc_ht=scontent.fdac15-1.fna&oh=00_AT_9eO5nNl6tOlsEH9jGPgBqlUJFUhY3ULZUcZD3LNNAQA&oe=62BA0FF3)
-
 ### Hi there 👋, I am Jashim Uddin
 #### Web Developer
 
